@@ -950,20 +950,20 @@
 		// "MainMenu_News_Unavailable_Description"			"The Steam Web API could not be reached or is experiencing a technical problem. News is temporarily unavailable."
 
 		// Main Menu - Saverestore
-		"MainMenu_SaveRestore_Main"							"Sa	/Load Game"
-		"MainMenu_SaveRestore_Main_Tagline"					"Manage and load saved games"
-		"MainMenu_SaveRestore_LoadAuto"						"Load Last Save"
-		"MainMenu_SaveRestore_LoadAuto_Tagline"				"Continue from the most recent saved game"
-		"MainMenu_SaveRestore_LoadQuick"					"Load Quicksave"
-		"MainMenu_SaveRestore_NoSaves"						"No Save Available"
-		"MainMenu_SaveRestore_CreateSave"					"Create New Save"
-		"MainMenu_SaveRestore_Load"							"Load Saved Game"
-		"MainMenu_SaveRestore_Delete"						"Delete Saved Game"
-		"MainMenu_SaveRestore_Rename"						"Rename Saved Game"
+		"MainMenu_SaveRestore_Main"							"Spiel speichern / laden"
+		"MainMenu_SaveRestore_Main_Tagline"					"Verwalte Speicherpunkte"
+		"MainMenu_SaveRestore_LoadAuto"						"Letzten Speicherpunkt laden"
+		"MainMenu_SaveRestore_LoadAuto_Tagline"				"Mach weiter vom letzten Speicherpunkt"
+		"MainMenu_SaveRestore_LoadQuick"					"Schnelladen"
+		"MainMenu_SaveRestore_NoSaves"						"Kein Speicherpunkt!"
+		"MainMenu_SaveRestore_CreateSave"					"Speicherpunkt erstellen"
+		"MainMenu_SaveRestore_Load"							"Speicherpunkt laden"
+		"MainMenu_SaveRestore_Delete"						"Speicherpunkt löschen"
+		"MainMenu_SaveRestore_Rename"						"Speicherpunkt umbennenen"
 
 		// Chapter Navigation
-		"MainMenu_ChapterNav_Back"							"< Back"
-		"MainMenu_ChapterNav_Next"							"Next >"
+		"MainMenu_ChapterNav_Back"							"< Zurück"
+		"MainMenu_ChapterNav_Next"							"Nächster >"
 
 		// SaveCreatePrompt
 		"Action_NewSave"									"Save Game"
