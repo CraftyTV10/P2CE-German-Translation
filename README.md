@@ -20,9 +20,9 @@
 - [ ] socials
 - [x] featured
 - [ ] Main Menu - News
-- [ ] Main Menu - Saverestore
+- [x] Main Menu - Saverestore
 
-- [ ] Chapter Navigation
+- [x] Chapter Navigation
 - [ ] SaveCreatePrompt
 - [ ] SaveLoadPrompt
 - [ ] SaveDeletePrompt
