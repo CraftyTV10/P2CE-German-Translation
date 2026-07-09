@@ -73,5 +73,6 @@
 - [ ] Networking Stuff!!!!!
 - [ ] generic disconnect reasons
 - [ ] Disconnect Notices - ENetworkDisconnectionReason
-## SUBTILES
+## OTHER
 - [ ] SUBBTILES
+- [x] Hints
