@@ -3,9 +3,9 @@
 - [x] Rich Presence
 - [x] P2 Chapters
 ## Settings
-- [ ] Settings - UI
-- [ ] Settings - Import/Export
-- [ ] Settings - Audio
+- [x] Settings - UI
+- [x] Settings - Import/Export
+- [x] Settings - Audio
 - [ ] Storm - CC System Rewrite
 - [ ] Settings - Video
 - [ ] Settings - Keyboard/Mouse
